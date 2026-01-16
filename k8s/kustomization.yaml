@@ -5,3 +5,4 @@ resources:
   - mysql
   - backend
   - frontend
+  - ingress.yaml
