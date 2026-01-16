@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: moonfaceisaac/utsfinal-frontend
+          image: moonfaceisaac/utsfinal-frontend:e14119569855ab1e9c187e3250fdaad0d0f07410
           ports:
             - containerPort: 80
           resources:
