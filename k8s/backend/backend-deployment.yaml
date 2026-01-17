@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: backend
-          image: moonfaceisaac/utsfinal-backend:d0a0b741f2db488f5cff6974c4f8f270689da284
+          image: moonfaceisaac/utsfinal-backend:fcc030fa87520745bf4f1b7cea437433ee57f7bb
           ports:
             - containerPort: 3000
           env:
